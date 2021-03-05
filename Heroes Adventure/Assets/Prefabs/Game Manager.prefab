@@ -1,0 +1,337 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3035562787198411279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3035562787198411277}
+  - component: {fileID: 3035562787198411278}
+  - component: {fileID: 359354122}
+  - component: {fileID: 1497754540}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3035562787198411277
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787198411279}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.4624524, y: -3.2632394, z: -191.70222}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3035562787511385735}
+  - {fileID: 3035562788003414436}
+  - {fileID: 3035562787441620898}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3035562787198411278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787198411279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eefd7e526c296cf44bc862a67ab745ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterStats:
+  - {fileID: 3035562787511385734}
+  - {fileID: 3035562788003414443}
+  - {fileID: 3035562787441620897}
+  isMenuOpen: 0
+  isDialogOpen: 0
+  isLoading: 0
+  isBattle: 0
+  itemHelds:
+  - Health Potion
+  - Mana Potion
+  - Wooden Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  itemQuantity: 050000000500000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  reference:
+  - {fileID: 6991603516089386308, guid: 2b4688434dcd7d446ba9602567ebc7c6, type: 3}
+  - {fileID: 1001664401126214106, guid: c7d2ebca5f33fff45af9547d79fe220f, type: 3}
+  - {fileID: 7289347319043741451, guid: 100a9e8f2b7b75847b28cf1fc80c02a2, type: 3}
+  - {fileID: 5353574238328450911, guid: 3dd52f5b372e00e40b21ba7e16434559, type: 3}
+  - {fileID: 8090174617181403658, guid: 4636eea9c6f5df74da92c6b9f4cb84a2, type: 3}
+  - {fileID: 112025235104657092, guid: b5c57f224d00cd847b14c636d341776e, type: 3}
+  - {fileID: 962348806574515423, guid: dd60e7d251c4268498c977c520882cdf, type: 3}
+  - {fileID: 1620037153305759211, guid: 99bc938bd9152a4478dcd18a343d7b38, type: 3}
+  - {fileID: 7044740006620747443, guid: bdb4d5021a74b3c49aea11f8c92ae3da, type: 3}
+  - {fileID: 5638349155094023769, guid: fbf9c71734431e641aa48a0a7c7465b8, type: 3}
+  - {fileID: 834350257937005994, guid: b3b89d4f41a4fcc49bc2ba9a27ad6079, type: 3}
+  - {fileID: 3830082126549127445, guid: 4970acd62929cb94e94cf6ec03ca348a, type: 3}
+  - {fileID: 7724878552348664427, guid: 363d05edb6cdd964f9c9d2d853d6e9a0, type: 3}
+  currentGold: 0
+--- !u!114 &359354122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787198411279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4cd9f95c65e40f43839dc08248996a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chestNameMarkers:
+  - Chest-1
+  - Chest-2
+  - Chest-3
+  - Chest-4
+  - Chest-5
+  - Chest-6
+  chestStatus: 
+--- !u!114 &1497754540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787198411279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cb52d4533ee0f34eb4677ce1e26ef06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questNames:
+  - Talk to Chief in Helas Town
+  - Kill the monster in Allos Cave
+  - 
+  questCompletions: 
+--- !u!1 &3035562787441620899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3035562787441620898}
+  - component: {fileID: 3035562787441620897}
+  m_Layer: 0
+  m_Name: Character Status 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3035562787441620898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787441620899}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.764612, y: 5.889667, z: -127.73036}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3035562787198411277}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3035562787441620897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787441620899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff1a4a11d424c8246bc1303fad7b78d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerName: Craig
+  characterClass: Knight
+  playerLevel: 10
+  currentEXP: 0
+  expToNextLevel: 
+  currentHP: 350
+  maxHP: 350
+  currentMP: 100
+  maxMP: 100
+  str: 15
+  def: 20
+  intelligence: 5
+  agi: 8
+  atkPwr: 0
+  weaponPower: 0
+  defPwr: 0
+  armorPower: 0
+  magPwr: 0
+  magicPower: 0
+  equipWp: 
+  equipArmor: 
+  equipAcc: 
+  playerImage: {fileID: 1275799582219785177, guid: 28d1e5f00986caf46b652d3496599ea5,
+    type: 3}
+  playerPotrait: {fileID: 21300000, guid: 7fe3b93383fb9694d90d6a5549041dff, type: 3}
+--- !u!1 &3035562787511385728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3035562787511385735}
+  - component: {fileID: 3035562787511385734}
+  m_Layer: 0
+  m_Name: Character Status 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3035562787511385735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787511385728}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.764612, y: 5.889667, z: -127.73036}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3035562787198411277}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3035562787511385734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562787511385728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff1a4a11d424c8246bc1303fad7b78d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerName: Aldo
+  characterClass: Warrior
+  playerLevel: 1
+  currentEXP: 0
+  expToNextLevel: 
+  currentHP: 150
+  maxHP: 150
+  currentMP: 50
+  maxMP: 50
+  str: 10
+  def: 8
+  intelligence: 5
+  agi: 7
+  atkPwr: 0
+  weaponPower: 0
+  defPwr: 0
+  armorPower: 0
+  magPwr: 0
+  magicPower: 0
+  equipWp: 
+  equipArmor: 
+  equipAcc: 
+  playerImage: {fileID: 1479568654078214800, guid: 123501799137a8b4d8f4337de4198ef8,
+    type: 3}
+  playerPotrait: {fileID: 21300000, guid: 5a11a1c55cbb76f4e8233ef887a1fce8, type: 3}
+--- !u!1 &3035562788003414437
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3035562788003414436}
+  - component: {fileID: 3035562788003414443}
+  m_Layer: 0
+  m_Name: Character Status 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3035562788003414436
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562788003414437}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.764612, y: 5.889667, z: -127.73036}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3035562787198411277}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3035562788003414443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035562788003414437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff1a4a11d424c8246bc1303fad7b78d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerName: Luna
+  characterClass: Mage
+  playerLevel: 5
+  currentEXP: 0
+  expToNextLevel: 
+  currentHP: 200
+  maxHP: 200
+  currentMP: 150
+  maxMP: 150
+  str: 6
+  def: 5
+  intelligence: 15
+  agi: 4
+  atkPwr: 0
+  weaponPower: 0
+  defPwr: 0
+  armorPower: 0
+  magPwr: 0
+  magicPower: 0
+  equipWp: 
+  equipArmor: 
+  equipAcc: 
+  playerImage: {fileID: 1602160752123275939, guid: bc9a07ed3630a52439c9749bc5c2f9c6,
+    type: 3}
+  playerPotrait: {fileID: 21300000, guid: 75d5a1a69d9954d43bfec914f8d72084, type: 3}

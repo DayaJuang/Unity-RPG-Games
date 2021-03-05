@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c05982c1fcaacbb4794a3d342f1b8180
+  - enabled: 1
+    path: Assets/Scenes/Opening Scene.unity
+    guid: 819782cf8deaa74418897ee3917bb620
+  - enabled: 1
+    path: Assets/Scenes/CountrySide.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Helas Town.unity
+    guid: 7f7a874bb8b537440ab6db0a2aff723f
+  - enabled: 1
+    path: Assets/Scenes/Helas House.unity
+    guid: 28d8f5761c006db4d8b75b3bc8c27f52
+  - enabled: 1
+    path: Assets/Scenes/Helas Chief House.unity
+    guid: 8c6a4307182723947b8cb016c5cb3c92
+  - enabled: 1
+    path: Assets/Scenes/Allos Cave - Entrance.unity
+    guid: 53bd289da774006448ad4f4492f51b4a
+  - enabled: 1
+    path: Assets/Scenes/Aldo House.unity
+    guid: 39e56952a6d8011498b7cf83eb27fa76
+  - enabled: 1
+    path: Assets/Scenes/Allos Cave - Inner.unity
+    guid: 8e42c90c477bd7a4e922db0bf25f3026
+  - enabled: 1
+    path: Assets/Scenes/HUT.unity
+    guid: a23727b324697dd479bff4f06bc5068e
+  - enabled: 1
+    path: Assets/Scenes/Allos Cave - Labyrinth.unity
+    guid: 2d40c9f254e9e2c48822042df6fc77a3
+  - enabled: 1
+    path: Assets/Scenes/Dalias Forest.unity
+    guid: 3af2732045e48064999ea8d3e410d56b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 26c08319c9dc992429291d7d0e6a3e3d
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 0007074d01fefb5419f1534e6d474549
+  m_configObjects: {}

@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 8fa7bf8dff182aa44952ae91b70b0060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1937193344967028161
+    second: Townsman_0
+  - first:
+      213: 2753638202770083493
+    second: Townsman_1
+  - first:
+      213: 2355890272464437417
+    second: Townsman_2
+  - first:
+      213: -527283427220959647
+    second: Townsman_3
+  - first:
+      213: -6487122004486476417
+    second: Townsman_4
+  - first:
+      213: -1385003388562037759
+    second: Townsman_5
+  - first:
+      213: 3445075894361654722
+    second: Townsman_6
+  - first:
+      213: -2669402690799120862
+    second: Townsman_7
+  - first:
+      213: -5279875008504421109
+    second: Townsman_8
+  - first:
+      213: -5076000830264957184
+    second: Townsman_9
+  - first:
+      213: 319404707554106075
+    second: Townsman_10
+  - first:
+      213: -6255532481574406057
+    second: Townsman_11
+  - first:
+      213: -7767805273898054756
+    second: Townsman_12
+  - first:
+      213: 2126440729243974927
+    second: Townsman_13
+  - first:
+      213: -3524279873340585963
+    second: Townsman_14
+  - first:
+      213: 2164567599096762199
+    second: Townsman_15
+  - first:
+      213: 7505219862867292382
+    second: Townsman_16
+  - first:
+      213: 6384623549122368391
+    second: Townsman_17
+  - first:
+      213: -4556157575785017746
+    second: Townsman_18
+  - first:
+      213: -8618821510860708154
+    second: Townsman_19
+  - first:
+      213: 1106663720626959960
+    second: Townsman_20
+  - first:
+      213: 7754177301152096490
+    second: Townsman_21
+  - first:
+      213: -2120445069721625543
+    second: Townsman_22
+  - first:
+      213: 2920154749702166274
+    second: Townsman_23
+  - first:
+      213: 2175902765970428150
+    second: Townsman_24
+  - first:
+      213: -8957910791091196165
+    second: Townsman_25
+  - first:
+      213: 5765756281700097407
+    second: Townsman_26
+  - first:
+      213: 6043728083653585651
+    second: Townsman_27
+  - first:
+      213: 2366604214019060498
+    second: Townsman_28
+  - first:
+      213: 722213309103444160
+    second: Townsman_29
+  - first:
+      213: -830871716841348343
+    second: Townsman_30
+  - first:
+      213: 1098221128509504108
+    second: Townsman_31
+  - first:
+      213: -6867480792211893562
+    second: Townsman_32
+  - first:
+      213: -7839362502094100118
+    second: Townsman_33
+  - first:
+      213: -6615840784744429800
+    second: Townsman_34
+  - first:
+      213: -4050085285478470697
+    second: Townsman_35
+  - first:
+      213: -6358695364022956601
+    second: Townsman_36
+  - first:
+      213: -4384358467813090872
+    second: Townsman_37
+  - first:
+      213: 4429608545166965341
+    second: Townsman_38
+  - first:
+      213: 6627063959798920278
+    second: Townsman_39
+  - first:
+      213: -7601868672640574999
+    second: Townsman_40
+  - first:
+      213: -8410047012278598258
+    second: Townsman_41
+  - first:
+      213: 6501508774222730324
+    second: Townsman_42
+  - first:
+      213: 1185924983022195943
+    second: Townsman_43
+  - first:
+      213: -7508937151114718200
+    second: Townsman_44
+  - first:
+      213: -8649254695375031021
+    second: Townsman_45
+  - first:
+      213: -5555832437395338383
+    second: Townsman_46
+  - first:
+      213: -6716615857187651936
+    second: Townsman_47
+  - first:
+      213: -5310522561340791727
+    second: Townsman_48
+  - first:
+      213: 5954926733083334598
+    second: Townsman_49
+  - first:
+      213: 848514430023524918
+    second: Townsman_50
+  - first:
+      213: -2230668252488604332
+    second: Townsman_51
+  - first:
+      213: -5788217821172466758
+    second: Townsman_52
+  - first:
+      213: 3618195206415052984
+    second: Townsman_53
+  - first:
+      213: -3076537591877058703
+    second: Townsman_54
+  - first:
+      213: 2664075062536030832
+    second: Townsman_55
+  - first:
+      213: 2172617087714830455
+    second: Townsman_56
+  - first:
+      213: -926438955771238936
+    second: Townsman_57
+  - first:
+      213: -1893142067650009351
+    second: Townsman_58
+  - first:
+      213: 7477374701115575786
+    second: Townsman_59
+  - first:
+      213: -6695133289610099348
+    second: Townsman_60
+  - first:
+      213: -5159864320934788570
+    second: Townsman_61
+  - first:
+      213: -7570101326997808184
+    second: Townsman_62
+  - first:
+      213: -618580092459588292
+    second: Townsman_63
+  - first:
+      213: -9131703376201551536
+    second: Townsman_64
+  - first:
+      213: 7790133836107014783
+    second: Townsman_65
+  - first:
+      213: 7293905060525143752
+    second: Townsman_66
+  - first:
+      213: 8385314429115570728
+    second: Townsman_67
+  - first:
+      213: -412598516489567369
+    second: Townsman_68
+  - first:
+      213: -1844560086421892446
+    second: Townsman_69
+  - first:
+      213: -9046593761588141989
+    second: Townsman_70
+  - first:
+      213: -6069779200533442775
+    second: Townsman_71
+  - first:
+      213: 6044744633623927249
+    second: Townsman_72
+  - first:
+      213: 7171349364793708742
+    second: Townsman_73
+  - first:
+      213: 1308080727733545238
+    second: Townsman_74
+  - first:
+      213: 650869324418286231
+    second: Townsman_75
+  - first:
+      213: 1149362532907261042
+    second: Townsman_76
+  - first:
+      213: -3333868998777921588
+    second: Townsman_77
+  - first:
+      213: 6985795154773081212
+    second: Townsman_78
+  - first:
+      213: 3603781320866558121
+    second: Townsman_79
+  - first:
+      213: -5107358108144071414
+    second: Townsman_80
+  - first:
+      213: 621387178969504349
+    second: Townsman_81
+  - first:
+      213: -23035102367080566
+    second: Townsman_82
+  - first:
+      213: 2576846640948670431
+    second: Townsman_83
+  - first:
+      213: 1788395302891710739
+    second: Townsman_84
+  - first:
+      213: 5418184266265902658
+    second: Townsman_85
+  - first:
+      213: -7270702156207445710
+    second: Townsman_86
+  - first:
+      213: -1470962740774241588
+    second: Townsman_87
+  - first:
+      213: -3414418223262552846
+    second: Townsman_88
+  - first:
+      213: 6548192415549288976
+    second: Townsman_89
+  - first:
+      213: 7532973494919023297
+    second: Townsman_90
+  - first:
+      213: -7963528849845049730
+    second: Townsman_91
+  - first:
+      213: 713824228368236825
+    second: Townsman_92
+  - first:
+      213: 1871774554813747581
+    second: Townsman_93
+  - first:
+      213: 1421212807406157030
+    second: Townsman_94
+  - first:
+      213: -6023148015460832010
+    second: Townsman_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Townsman_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325dfb9ae4bd15e0800000000000000
+      internalID: -1937193344967028161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 337
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4e042b53e63620800000000000000
+      internalID: 2753638202770083493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a08a0488bdc1b020800000000000000
+      internalID: 2355890272464437417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 337
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4b804486bea8f0800000000000000
+      internalID: -527283427220959647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 337
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7da6fb38ec19f5a0800000000000000
+      internalID: -6487122004486476417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 337
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042c0491ca77cce0800000000000000
+      internalID: -1385003388562037759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 336
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c500bbe54e5fcf20800000000000000
+      internalID: 3445075894361654722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 337
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4274556064fad0800000000000000
+      internalID: -2669402690799120862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 336
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05a1ab57ad1ab6b0800000000000000
+      internalID: -5279875008504421109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 336
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072870832c6e89b0800000000000000
+      internalID: -5076000830264957184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 337
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9955a3e0ce6400800000000000000
+      internalID: 319404707554106075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 336
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758f6dae952ef29a0800000000000000
+      internalID: -6255532481574406057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b86ec4246333490800000000000000
+      internalID: -7767805273898054756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d728ea392a28d10800000000000000
+      internalID: 2126440729243974927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c97ca02e371fc0800000000000000
+      internalID: -3524279873340585963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 289
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8b7453c61a0e10800000000000000
+      internalID: 2164567599096762199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0396f63b5e72860800000000000000
+      internalID: 7505219862867292382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 289
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783580e6a4dba9850800000000000000
+      internalID: 6384623549122368391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 289
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e01aa03d645c0c0800000000000000
+      internalID: -4556157575785017746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 289
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e6a6108bc36880800000000000000
+      internalID: -8618821510860708154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 289
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85638c16ac8ab5f00800000000000000
+      internalID: 1106663720626959960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 289
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae061980c2f5c9b60800000000000000
+      internalID: 7754177301152096490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 289
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c9385917aa292e0800000000000000
+      internalID: -2120445069721625543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 289
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207da21f549768820800000000000000
+      internalID: 2920154749702166274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 241
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01577890c523e10800000000000000
+      internalID: 2175902765970428150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 241
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeee57b89b1fa380800000000000000
+      internalID: -8957910791091196165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 241
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d16383ac4140050800000000000000
+      internalID: 5765756281700097407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 241
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6939cba2afd350800000000000000
+      internalID: 6043728083653585651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 241
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137c8c6efdd7d020800000000000000
+      internalID: 2366604214019060498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09b2d9d21d50a00800000000000000
+      internalID: 722213309103444160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 241
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a0cf53962874f0800000000000000
+      internalID: -830871716841348343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 241
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a33a93c4aad3f00800000000000000
+      internalID: 1098221128509504108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 241
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2546eda9ec1b0a0800000000000000
+      internalID: -6867480792211893562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 241
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e92dc65df43390800000000000000
+      internalID: -7839362502094100118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 241
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81744c6cbdfcf24a0800000000000000
+      internalID: -6615840784744429800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 241
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe40124e43bc7c0800000000000000
+      internalID: -4050085285478470697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0d78914061c7a0800000000000000
+      internalID: -6358695364022956601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9560ee331a723c0800000000000000
+      internalID: -4384358467813090872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a36b4b081297d30800000000000000
+      internalID: 4429608545166965341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654bb9b4f8f08fb50800000000000000
+      internalID: 6627063959798920278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9961af7bcb08690800000000000000
+      internalID: -7601868672640574999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 193
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858cc8fcc2894b80800000000000000
+      internalID: -8410047012278598258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45491af98cff93a50800000000000000
+      internalID: 6501508774222730324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49c4f1d70457010800000000000000
+      internalID: 1185924983022195943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d213f175eac790800000000000000
+      internalID: -7508937151114718200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 193
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ba462eaca7f780800000000000000
+      internalID: -8649254695375031021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 193
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b457195d7b5e2b0800000000000000
+      internalID: -5555832437395338383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 193
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef29bc679c9c2a0800000000000000
+      internalID: -6716615857187651936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154a597eddb3d46b0800000000000000
+      internalID: -5310522561340791727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 145
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7d8ec205624a250800000000000000
+      internalID: 5954926733083334598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 144
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326854e06786cb00800000000000000
+      internalID: 848514430023524918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 144
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ecaefa031b01e0800000000000000
+      internalID: -2230668252488604332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 145
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbfd661f8e1cafa0800000000000000
+      internalID: -5788217821172466758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0f366ce59663230800000000000000
+      internalID: 3618195206415052984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f38024c51fd45d0800000000000000
+      internalID: -3076537591877058703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 145
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07acf6d8722b8f420800000000000000
+      internalID: 2664075062536030832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 144
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778af22fabfa62e10800000000000000
+      internalID: 2172617087714830455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 144
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5eb2f9da0a423f0800000000000000
+      internalID: -926438955771238936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_58
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 145
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66f5cd1553ab5e0800000000000000
+      internalID: -1893142067650009351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 144
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8c708ca8f4c760800000000000000
+      internalID: 7477374701115575786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c5e4debb1613a0800000000000000
+      internalID: -6695133289610099348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622487dfcba7468b0800000000000000
+      internalID: -5159864320934788570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_62
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb159283f891f690800000000000000
+      internalID: -7570101326997808184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3561dbeeac5a67f0800000000000000
+      internalID: -618580092459588292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517543492ca54180800000000000000
+      internalID: -9131703376201551536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 97
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e8e5337d1c1c60800000000000000
+      internalID: 7790133836107014783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6760ef108293560800000000000000
+      internalID: 7293905060525143752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 97
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1465cb0f9e5470800000000000000
+      internalID: 8385314429115570728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 97
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77349c5d5d7264af0800000000000000
+      internalID: -412598516489567369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 97
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a295f1df5ec666e0800000000000000
+      internalID: -1844560086421892446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 97
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50264d97ea047280800000000000000
+      internalID: -9046593761588141989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 97
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f4627e9ffc3cba0800000000000000
+      internalID: -6069779200533442775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95a15c73f33e350800000000000000
+      internalID: 6044744633623927249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 49
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c090c87040c58360800000000000000
+      internalID: 7171349364793708742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 49
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a71acd7c372210800000000000000
+      internalID: 1308080727733545238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792862db33a580900800000000000000
+      internalID: 650869324418286231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 49
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9414522b53ff00800000000000000
+      internalID: 1149362532907261042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf97282fc7bbb1d0800000000000000
+      internalID: -3333868998777921588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 49
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf4e15ea782f060800000000000000
+      internalID: 6985795154773081212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 49
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a070768404330230800000000000000
+      internalID: 3603781320866558121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_80
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 49
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8c5f4cd40f19b0800000000000000
+      internalID: -5107358108144071414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_81
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 49
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9576d85c9f9800800000000000000
+      internalID: 621387178969504349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_82
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 49
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9b0a42b92eaff0800000000000000
+      internalID: -23035102367080566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_83
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 49
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf67620e5cc2c320800000000000000
+      internalID: 2576846640948670431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31966da7d08a1d810800000000000000
+      internalID: 1788395302891710739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb36622e1413b40800000000000000
+      internalID: 5418184266265902658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a69729e6491b90800000000000000
+      internalID: -7270702156207445710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf0564e27169be0800000000000000
+      internalID: -1470962740774241588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca0df57bc8d90d0800000000000000
+      internalID: -3414418223262552846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_89
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f8b1ee4adfda50800000000000000
+      internalID: 6548192415549288976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac4137b7f7a8860800000000000000
+      internalID: 7532973494919023297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76296224bcdb7190800000000000000
+      internalID: -7963528849845049730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c4fb8a5308e900800000000000000
+      internalID: 713824228368236825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_93
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71d94f5a01e9f910800000000000000
+      internalID: 1871774554813747581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfda7b48929b310800000000000000
+      internalID: 1421212807406157030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Townsman_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcabdcbaca796ca0800000000000000
+      internalID: -6023148015460832010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
